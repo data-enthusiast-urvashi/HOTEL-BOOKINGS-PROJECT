@@ -1,6 +1,6 @@
 # Hotel-Bookings-Project
 
-![](https://assets.materialup.com/uploads/132da5cf-4213-43fa-961a-b133e0b5f80d/preview.gif)
+![preview](https://github.com/data-enthusiast-urvashi/Playstore-App-Review-Analysis/assets/148456153/d726c550-adb5-43f0-952d-de1a9cbc64f1)
 
 This project aims to address the challenge of high cancellation rates faced by City Hotel and Resort Hotel, leading to reduced revenues and underutilization of hotel rooms. By conducting a thorough analysis of booking cancellations and isolating pertinent business factors, the project intends to offer tailored strategies to optimize revenue generation and enhance operational efficiency.
 ## Problem Statement
