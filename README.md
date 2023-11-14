@@ -12,16 +12,16 @@ The data analysis indicates that approximately 37% of reservations are canceled,
 The findings further emphasize the direct relationship between higher average daily rates and increased cancellation rates, highlighting the pivotal role of pricing strategies in shaping guest decisions within the hospitality industry.
 
 ## Business Advice
-1.Strategic Pricing:
+1. Strategic Pricing:
 Implement dynamic pricing and location-based discounts to curb the impact of rising cancellation rates associated with higher prices.
 
-2.Weekend & Holiday Discounts:
+2. Weekend & Holiday Discounts:
 Introduce competitive discounts specifically for resort hotels during weekends and holidays to encourage higher retention rates among guests.
 
-3.Seasonal marketing campaigns:
+3. Seasonal marketing campaigns:
 Launch targeted promotional campaigns during January, coupled with strategic marketing initiatives, to counter the typically elevated cancellation rates in this period.
 
-4.Enhanced service quality:
+4. Enhanced service quality:
 Invest significantly in improving service quality and amenities in the Portugal region to heighten customer satisfaction and effectively reduce cancellation rates.
 **************************************************************************************************************************************************
 To download the dataset: [Click here](https://drive.google.com/file/d/1cGBlbEzoy7NjEm9R1oW4Xh7LMCs22YIj/view?usp=sharing)
