@@ -24,11 +24,11 @@ Launch targeted promotional campaigns during January, coupled with strategic mar
 4. Enhanced service quality:
 Invest significantly in improving service quality and amenities in the Portugal region to heighten customer satisfaction and effectively reduce cancellation rates.
 **************************************************************************************************************************************************
-To download the dataset: [Click here](https://drive.google.com/file/d/1cGBlbEzoy7NjEm9R1oW4Xh7LMCs22YIj/view?usp=sharing)..
+To download the dataset: [Click here](https://drive.google.com/file/d/1cGBlbEzoy7NjEm9R1oW4Xh7LMCs22YIj/view?usp=sharing)
 
 Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/urvashi-dhakate-b0780320a/)..
+Connect with me on [Linkedin](https://www.linkedin.com/in/urvashi-dhakate-b0780320a/)
 
 Happy Learning!
 **************************************************************************************************************************************************
