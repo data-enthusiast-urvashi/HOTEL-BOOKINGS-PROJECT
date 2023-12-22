@@ -1,6 +1,6 @@
 # Hotel-Bookings-Project
 
-![265205400-d52850a6-6a9b-498a-a79d-2e8cd248a7b6](https://github.com/data-enthusiast-urvashi/HOTEL-BOOKINGS-PROJECT/assets/148456153/f73ccf06-61d4-4e1d-9198-7514a3dba938)
+![265205400-d52850a6-6a9b-498a-a79d-2e8cd248a7b6](https://github.com/data-enthusiast-urvashi/HOTEL-BOOKINGS-PROJECT/assets/148456153/f73ccf06-61d4-4e1d-9198-7514a3dba938)...
 
 This project aims to address the challenge of high cancellation rates faced by City Hotel and Resort Hotel, leading to reduced revenues and underutilization of hotel rooms. By conducting a thorough analysis of booking cancellations and isolating pertinent business factors, the project intends to offer tailored strategies to optimize revenue generation and enhance operational efficiency.
 ## Problem Statement
